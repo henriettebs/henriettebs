@@ -4,10 +4,10 @@
 *henriettebs/henriettebs* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. -->
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=henriettebs)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=henriettebs&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriettebs&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriettebs)
 
 
 ## Connect with me
