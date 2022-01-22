@@ -1,7 +1,21 @@
-### Hi there 👋
+### 👋
 
 <!--
-**henriettebs/henriettebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*henriettebs/henriettebs* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. -->
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=henriettebs&show_icons=true&theme=dracula)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriettebs&theme=tokyonight)
+
+
+## Connect with me
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<!--
 
 Here are some ideas to get you started:
 
@@ -14,3 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[linkedin]: https://www.linkedin.com/in/henriette-brekke-sunde-766190224/
